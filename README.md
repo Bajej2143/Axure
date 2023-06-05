@@ -1,6 +1,6 @@
-## Projekt w Axure na przedmiot Inżynieria oprogramowania
+## Projekt w Axure RP na przedmiot Inżynieria oprogramowania
 
-# Strona dla eventu o biegach
+# Strona dotycząca biegów
 
 Strona zawiera:
 1.Panel administracyjny dla organizatorów imprezy, umożliwiający zarządzanie biegiem, zapisywanie uczestników, wybieranie trasy, dodawanie sędziów i wolontariuszy itp.
